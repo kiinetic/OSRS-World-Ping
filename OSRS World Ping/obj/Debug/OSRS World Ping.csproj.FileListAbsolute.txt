@@ -1,0 +1,8 @@
+F:\Projects\OSRS World Ping\OSRS World Ping\bin\Debug\OSRS World Ping.exe.config
+F:\Projects\OSRS World Ping\OSRS World Ping\bin\Debug\OSRS World Ping.exe
+F:\Projects\OSRS World Ping\OSRS World Ping\bin\Debug\OSRS World Ping.pdb
+F:\Projects\OSRS World Ping\OSRS World Ping\obj\Debug\OSRS_Ping.OSRSWorldPing.resources
+F:\Projects\OSRS World Ping\OSRS World Ping\obj\Debug\OSRS_Ping.Properties.Resources.resources
+F:\Projects\OSRS World Ping\OSRS World Ping\obj\Debug\OSRS World Ping.csproj.GenerateResource.Cache
+F:\Projects\OSRS World Ping\OSRS World Ping\obj\Debug\OSRS World Ping.exe
+F:\Projects\OSRS World Ping\OSRS World Ping\obj\Debug\OSRS World Ping.pdb
